@@ -1,0 +1,55 @@
+<link href="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdpage_style.css" rel="stylesheet" data-version="8" data-exports-type="gwd-page">
+<link href="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdpagedeck_style.css" rel="stylesheet" data-version="9" data-exports-type="gwd-pagedeck">
+<link href="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdimage_style.css" rel="stylesheet" data-version="9" data-exports-type="gwd-image">
+<link href="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdtaparea_style.css" rel="stylesheet" data-version="4" data-exports-type="gwd-taparea">
+<style type="text/css" id="gwd-lightbox-style">.gwd-lightbox{overflow:hidden}</style>
+<style type="text/css" id="gwd-text-style">p{margin:0px}h1{margin:0px}h2{margin:0px}h3{margin:0px}</style>
+<link href="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/custom.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Oxygen|Exo+2|Maven+Pro|Questrial|Dosis|Raleway" rel="stylesheet" type="text/css">
+<script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/googbase_min.js"></script>
+<script data-source="gwd_webcomponents_min.js" data-version="5" data-exports-type="gwd_webcomponents" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwd_webcomponents_min.js"></script>
+<script data-source="gwdpage_min.js" data-version="8" data-exports-type="gwd-page" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdpage_min.js"></script>
+<script data-source="gwdpagedeck_min.js" data-version="9" data-exports-type="gwd-pagedeck" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdpagedeck_min.js"></script>
+<script data-source="gwdgenericad_min.js" data-version="4" data-exports-type="gwd-genericad" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdgenericad_min.js"></script>
+<script data-source="gwdimage_min.js" data-version="9" data-exports-type="gwd-image" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdimage_min.js"></script>
+<script data-source="gwdbezierpath_min.js" data-version="3" data-exports-type="gwd-bezierpath" src="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/gwdbezierpath_min.js"></script>
+<gwd-genericad id="gwd-ad">
+  <div is="gwd-pagedeck" class="gwd-page-container" id="pagedeck">
+    <div is="gwd-page" id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox" data-gwd-width="320px" data-gwd-height="480px">
+      <div class="gwd-page-content gwd-page-size">
+        <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/300X600_bg.png" id="gwd-image_1" class="gwd-img-3xfh">
+        <p class="gwd-p-r1bk gwd-gen-118sgwdanimation"><span class="gwd-span-929w gwd-gen-193hgwdanimation">The All New</span><span class="gwd-span-1bqb gwd-gen-ap0sgwdanimation">KAI Access</span>
+          <canvas is="gwd-bezierpath" width="387" height="212" class="gwd-canvas-93xg gwd-gen-159wgwdanimation" anchors="[[[1.64,1.64,0],[1.64,1.64,0],[1.64,1.64,0]],[[382.32,0.5,0],[382.32,0.5,0],[382.32,0.5,0]],[[386.86,210.73,0],[386.86,210.73,0],[386.86,210.73,0]],[[0.5,211.87,0],[0.5,211.87,0],[0.5,211.87,0]]]" stroke-width="1" stroke-color="null" fill-color="[1,1,1,1]" geom-type="5"></canvas><span class="gwd-span-xnzi gwd-gen-gnrrgwdanimation">ngga perlu ngantri, <br class="">semua ada di KAI Access</span>
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/kaiaccessiphone2.png" id="gwd-image_4" class="gwd-img-155a gwd-gen-1bs0gwdanimation">
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/kaiaccessiphone3.png" id="gwd-image_5" class="gwd-img-1qsz gwd-gen-lu93gwdanimation">
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/kaiaccessiphone.png" id="gwd-image_2" class="gwd-img-1pob gwd-gen-1ln3gwdanimation">
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/logokaiputih.png" id="gwd-image_3" class="gwd-img-t9k5 gwd-gen-123mgwdanimation">
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/google-play-badge.png" id="gwd-image_6" class="gwd-img-6j1c gwd-gen-38dcgwdanimation">
+          <img is="gwd-image" source="https://rmarepo.mobileads.com/2901/custom/kai/landing-0.4/Download_on_the_App_Store_Badge_US-UK_135x40.svg" id="gwd-image_7" class="gwd-img-idpb gwd-gen-le93gwdanimation">
+          <gwd-taparea id="gwd-taparea_1" class="gwd-taparea-9343"></gwd-taparea>
+          <gwd-taparea id="gwd-taparea_2" class="gwd-taparea-1843"></gwd-taparea>
+        </p>
+      </div>
+    </div>
+  </div>
+</gwd-genericad>
+<script type="text/javascript" id="gwd-init-code">
+  (function() {
+    var gwdAd = document.getElementById('gwd-ad');
+    function handleDomContentLoaded(event) {
+    }
+    function handleWebComponentsReady(event) {
+      // Start the Ad lifecycle.
+      setTimeout(function() {
+        gwdAd.initAd();
+      }, 0);
+    }
+    function handleAdInitialized(event) {}
+    window.addEventListener('DOMContentLoaded',
+      handleDomContentLoaded, false);
+    window.addEventListener('WebComponentsReady',
+      handleWebComponentsReady, false);
+    window.addEventListener('adinitialized',
+      handleAdInitialized, false);
+  })();
+</script>
