@@ -109,12 +109,12 @@ class AdUnit extends Mads {
 
             document.getElementById('gwd-taparea_1').addEventListener('mousedown', () => {
               self.tracker('E', 'ios');
-              self.linkOpener('https://itunes.apple.com/id/app/kai-access/id901804734?mt=8');
+              self.linkOpener('http://bit.ly/kaiapps');
             });
 
             document.getElementById('gwd-taparea_2').addEventListener('mousedown', () => {
               self.tracker('E', 'android');
-              self.linkOpener('https://play.google.com/store/apps/details?id=com.kai.kaiticketing&hl=en');
+              self.linkOpener('http://bit.ly/kaiapps');
             })
           }, 0);
         }
